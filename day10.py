@@ -43,7 +43,7 @@ else:
 print("I am happy now")  # Ye hamesha chalega
 
 # Nested if-else ka example
-num = 18
+num = 8
 
 if(num < 0):
     print("Number is negative")  # Agar num < 0 hota to
@@ -51,8 +51,8 @@ elif(num > 0):
     if(num < 10):
         print("Number is between 1-10")  # num > 0 and < 10
     elif(num > 10 and num < 20):
-        print("Number is between 1 - 20")  # ✅ Output: Ye chalega kyunki 18 > 10 and < 20
+        print("Number is between 10 - 20")  # ✅ Output: Ye chalega kyunki 18 > 10 and < 20
     else:
-        print("Number is greater than 20")  # Agar num > 20 hota to
+        print("Number is", num)  # Ye num ki actual value show karega
 else:
     print("Number is zero")  # Agar num == 0 hota to
