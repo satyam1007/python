@@ -28,5 +28,5 @@ for k in range(1, 9):
 #     stop = 12 → lekin 12 se pehle tak chalega (12 include nahi hota)
 
 #     step = 2 → har step me 2 number ka gap hoga (odd numbers generate honge)
-for k in range(1, 12, 3):
+for k in range(1, 12, 2):
   print(k)

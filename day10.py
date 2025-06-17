@@ -13,7 +13,7 @@ age = 18
 
 print("Your age is", drivingLicense)  # Jo bhi input diya gaya wo print hoga
 
-if(drivingLicense > age):
+if(drivingLicense >= age):
     print("Wow, Now you are ready to drive because your age is above", age)
     # Agar age > 18 hai to driving allowed
 else:
