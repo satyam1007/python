@@ -32,7 +32,8 @@ def fibonacci(n):
         print(a, end=' ')
         a, b = b, a + b
 
-# fibonacci(10)
+fibonacci(10)
+print('\n')
 
 # Fibonacci Using Recursion
 def fib(n):
@@ -43,14 +44,22 @@ def fib(n):
     else:
         return fib(n-1) + fib(n-2)
 
-# for i in range(6):
-#     print(fib(i), end=' ')
+for i in range(6):
+    print(fib(i), end=' ')
+
+print('\n')
 
 # Fibonacci With List (Storing Sequence)
 def fibonacci_list(n):
-    fib_siq = [0, 1]
-    for i in range(2, n):
+    fib_siq = [0, 1]                # Fibonacci list start ho rahi 0, 1 se
+    for i in range(5, n):           # Loop 2 se start ho raha hai
         fib_siq.append(fib_siq[-1] + fib_siq[-2])
+        # fib_siq = [0, 1]
+        # fib_siq[-1] = 1
+        # fib_siq[-2] = 0
+        # 1 + 0 = 1
+        # fib_siq.append(1)
         print(fib_siq)
+
 
 fibonacci_list(10)
