@@ -1,4 +1,5 @@
 #day16 - Functions in Python
+
 def calculateGmean(a, b):
   mean = (a*b)/(a+b)
   print(mean)

@@ -1,4 +1,4 @@
-# Day10 - If Else Conditional Statements in Python
+#day10 - If Else Conditional Statements in Python
 
 drivingLicense = int(input("Hi, your age is: "))  # User se age input lega
 age = 18

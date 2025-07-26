@@ -4,4 +4,13 @@
 # print(21//4+6/3)
 # print(5 < 10 and 12 > 7 or not 7 > 4)
 
+# s = "madam"  
+# print(s == s[::-1])  # True  
 
+# s = "helloworld"
+# vowels = "aeiouAEIOU"
+# count = 0
+# for ch in s:
+#   if ch in vowels:
+#     count += 1
+#     print("Vowels:", count)

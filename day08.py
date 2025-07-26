@@ -1,4 +1,4 @@
-# Day08 - Strings Slicing and Operations on Strings in Python 
+#day08 - Strings Slicing and Operations on Strings in Python 
 fruit  = "mango"
 mangoLen = len(fruit)
 

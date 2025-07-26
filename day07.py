@@ -1,4 +1,4 @@
-# Day07 - Strings in Python
+#day07 - Strings in Python
 
 # Define a string variable 'name' with value "Harry"
 name = "Harry"

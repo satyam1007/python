@@ -1,4 +1,4 @@
-# Day01 - Our First Python Program
+#day01 - Our First Python Program
 
 # Ye line "Hello, World!" print karegi
 print("Hello, World!")

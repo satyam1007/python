@@ -1,4 +1,4 @@
-# Day05 - Typecasting in Python
+#day05 - Typecasting in Python
 
 # num1 aur num2 ko humne string type mein define kiya hai
 num1 = "1"

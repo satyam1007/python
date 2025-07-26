@@ -1,4 +1,4 @@
-# Day09 - String Methods in Python
+#day09 - String Methods in Python
 
 # Ek string banayi gayi hai jisme unnecessary exclamation marks hain
 name = "!!! Harry !!!!!!!!"

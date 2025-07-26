@@ -1,4 +1,4 @@
-# Day06 - Taking Input from User
+#day06 - Taking Input from User
 
 # input() function ka use karke user se naam pucha ja raha hai
 # Yeh jo input doge, wo hamesha string (text) ke form mein aata hai

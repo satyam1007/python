@@ -1,4 +1,4 @@
-# Day03 - Variables and Data Types
+#day03 - Variables and Data Types
 
 # Here we are defining variables of different data types:
 

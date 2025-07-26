@@ -1,4 +1,4 @@
-# Day02 - Comments, Escape Sequences & Print Statement
+#day02 - Comments, Escape Sequences & Print Statement
 
 # Ye line "Hey I am a' "good boy" and this viewer is also a good boy/girl" print karegi
 # Yahaan escape sequences ka use ho raha hai:

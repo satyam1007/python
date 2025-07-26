@@ -1,4 +1,4 @@
-# Day04 - Calculator Project
+#day04 - Calculator Project
 
 # Variables define kar rahe hain: n ko 15 aur num ko 6 value de rahe hain
 n = 15

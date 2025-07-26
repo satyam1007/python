@@ -1,4 +1,4 @@
-# Day11 - Good Morning Sir
+#day11 - Good Morning Sir
 
 # User se input le rahe hain (time in hours, 24-hour format me)
 time = int(input("What's the time? "))
