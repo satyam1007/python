@@ -14,3 +14,6 @@
 #   if ch in vowels:
 #     count += 1
 #     print("Vowels:", count)
+
+for i in range(100):
+  print(f"{i}. hello world")

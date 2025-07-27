@@ -1,14 +1,14 @@
-# Day01 - Our First Python Program
-# Day02 - Comments, Escape Sequences & Print Statement
-# Day03 - Variables and Data Types
-# Day04 - Calculator Project
-# Day05 - Typecasting in Python
-# Day06 - Taking Input from User
-# Day07 - Strings in Python
-# Day08 - Strings Slicing and Operations on Strings in Python 
-# Day09 - String Methods in Python
-# Day10 - If Else Conditional Statements in Python
-# Day11 - Good Morning Sir
+#day01 - Our First Python Program
+#day02 - Comments, Escape Sequences & Print Statement
+#day03 - Variables and Data Types
+#day04 - Calculator Project
+#day05 - Typecasting in Python
+#day06 - Taking Input from User
+#day07 - Strings in Python
+#day08 - Strings Slicing and Operations on Strings in Python 
+#day09 - String Methods in Python
+#day10 - If Else Conditional Statements in Python
+#day11 - Good Morning Sir
 #day12 - Match Case Statements in Python 
 #day13 - For Loops in Python
 #day14 - While Loops in Python

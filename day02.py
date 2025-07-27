@@ -5,7 +5,7 @@
 # - \' : Single quote ko string mein include karne ke liye.
 # - \" : Double quote ko string mein include karne ke liye.
 # - \n : New line dene ke liye, jo text ke neeche new line pe move karega.
-print("Hey I am a\' \"good boy\" \nand this viewer is also a good boy/girl")
+print("Hey I am a \"good boy\" \nand this viewer is also a good boy/girl")
 
 # Ye line comment hai, matlab code me isse run nahi hoga jab tak hum usse comment se hata nahi dete.
 # print("Hello World !!!") # Ye line comment ke roop mein hai, jo explanation ke liye hoti hai.

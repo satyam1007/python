@@ -1,6 +1,7 @@
 #day08 - Strings Slicing and Operations on Strings in Python 
 fruit  = "mango"
 mangoLen = len(fruit)
+# [start:stop:step]
 
 print(mangoLen)
 
