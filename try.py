@@ -15,5 +15,16 @@
 #     count += 1
 #     print("Vowels:", count)
 
-for i in range(100):
-  print(f"{i}. hello world")
+# for i in range(100):
+#   print(f"{i}. hello world")
+
+# squareOfNum = [i*i for i in range(10) if i%2 == 0]
+# print(squareOfNum)
+
+# def intro(*args, **kwargs):
+#     for item in args:
+#         print(item)
+#     for key, value in kwargs.items():
+#         print(f"{key}: {value}")
+
+# intro("Aman", "Python", age=20, city="Delhi")

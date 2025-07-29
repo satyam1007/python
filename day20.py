@@ -12,8 +12,8 @@ else:
 
 print(tup[1:4])
 
-# tup_2 = (1)
-# print(type(tup_2))
+tup_2 = (1)
+print(type(tup_2))
 
 tup_2 = (1,)
 print(type(tup_2))

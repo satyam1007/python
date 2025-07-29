@@ -33,7 +33,7 @@ greet("Shiv")
 # Kabhi kabhi hume pata nahi hota kitne arguments milenge. Tab ye kaam aata hai.
 # 🔸 *args (Tuple banata hai sab arguments ka)
 def total(*numbers):
-  print(type(numbers))
+  # print(type(numbers))
   sum = 0
   for n in numbers:
     sum += n
@@ -44,7 +44,7 @@ total(10, 20, 30)
 
 # 🔸 **kwargs (Keyword arguments ko dictionary banata hai)
 def user_info(**details):
-  print(type(details))
+  # print(type(details))
   for key, value in details.items():
     print(key, ':', value) # or ==> print(f"{key} : {value}")
 
