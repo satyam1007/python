@@ -52,7 +52,7 @@ print('\n')
 # Fibonacci With List (Storing Sequence)
 def fibonacci_list(n):
     fib_siq = [0, 1]                # Fibonacci list start ho rahi 0, 1 se
-    for i in range(5, n):           # Loop 2 se start ho raha hai
+    for i in range(2, n):           # Loop 2 se start ho raha hai yahaa per humne 2 esliye liyaa kyuki fib_siq = [0, 1] esme index ke hisab se 1 element he aur hum 2 se start karna chahte he esliye agar usme 2 elements hote to hum 3 se start karte
         fib_siq.append(fib_siq[-1] + fib_siq[-2])
         # fib_siq = [0, 1]
         # fib_siq[-1] = 1
