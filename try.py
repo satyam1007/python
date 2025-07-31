@@ -28,3 +28,13 @@
 #         print(f"{key}: {value}")
 
 # intro("Aman", "Python", age=20, city="Delhi")
+
+
+def sum(n):
+  if n == 0:
+    return 0
+  else:
+    return n + sum(n-1)
+
+print(sum(7))
+# print(7+6+5+4+3+2+1+0)

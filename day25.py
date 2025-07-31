@@ -9,6 +9,8 @@ def factorial(n):
         # Recursive case: n * factorial of (n - 1)
         return n * factorial(n - 1)
 
+print(factorial(5))
+
 # Function calls with different inputs
 # print(factorial(0))  # Output: 1 (0! = 1)
 # print(factorial(1))  # Output: 1 (1! = 1)
