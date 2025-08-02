@@ -30,11 +30,20 @@
 # intro("Aman", "Python", age=20, city="Delhi")
 
 
-def sum(n):
-  if n == 0:
-    return 0
-  else:
-    return n + sum(n-1)
+# def sum(n):
+#   if n == 0:
+#     return 0
+#   else:
+#     return n + sum(n-1)
 
-print(sum(7))
+# print(sum(7))
 # print(7+6+5+4+3+2+1+0)
+def count_vowels(s):
+    vowels = "aeiou"
+    count = 0
+    for ch in s:
+        if ch in vowels:
+            count += 1
+    return count
+
+print(count_vowels("dfaeioutbmk"))  # Output: 5
