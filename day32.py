@@ -1,5 +1,19 @@
 #day32 - Finally keyword in Python
 
+'''
+The finally block always executes, whether an exception occurs or not. It’s used for cleanup (e.g., closing files).
+'''
+
+'''
+==> Syntax
+try:
+    # Risky code
+except:
+    # Handle error
+finally:
+    # Always runs (even if error occurs)
+'''
+
 def func1():
   try:
     l = [1,2,3,4]  # Ek list banayi jisme 4 elements hain: index 0 to 3
