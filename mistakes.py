@@ -6,3 +6,5 @@
 # 2. agar koi program mujhe banana nahi aa raha he to me usko tukdo me divide kar dunga phir ek-ek karke exicute karunga and run karke dekhunga
 
 # 3. mujhe har roj koi na koi program banana he chaahe wo chhota ho yaa bada lekin mujhe apne logic per control paana he
+
+# 4. mujhe formating ka acche se dhyaan rakhna hoga
