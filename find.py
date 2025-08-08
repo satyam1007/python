@@ -31,3 +31,7 @@
 #day31 - Exception Handling in Python
 #day32 - Finally keyword in Python
 #day33 - Raising custom errors in Python
+#day34 - Secret Code Language
+#day35 - Short hand if else statements
+#day36 - Enumerate Function in Python 
+#day37 - Virtual Environment in Python

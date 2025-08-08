@@ -47,3 +47,13 @@ def count_vowels(s):
     return count
 
 print(count_vowels("dfaeioutbmk"))  # Output: 5
+
+if(0.1 + 0.2 == 0.3):
+    print("True")
+else:
+    print("False")
+
+# if (0.1 + 0.2 == 0.30000000000000004):
+#     print("True")
+# else:
+#     print("False") #This would work
