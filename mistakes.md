@@ -15,3 +15,5 @@
    lekin mujhe apne logic par control paana hai.
 
 4. Mujhe formatting ka acche se dhyaan rakhna hoga.
+
+5. Mujhe `OS Module` ki mastry karni he
