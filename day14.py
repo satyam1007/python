@@ -1,5 +1,19 @@
 #day14 - While Loops in Python
 
+i = 0
+while i < 5:
+  print(i)
+  i += 1
+
+i = 0
+while i < 5:
+  i += 1
+  print(i)
+
+
+If increment is after print → 0 se 4 tak
+If increment is before print → 1 se 5 tak
+
 i  = int(input("Enter a number: "))
 while(i<20):
   i  = int(input("Enter a number: "))
