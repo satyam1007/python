@@ -2,10 +2,13 @@
 
 
 '''
+Think of a Python Virtual Environment as a dedicated "project toolbox."
+
+By default, Python installs everything into one big "global" folder. If you have two different projects that require different versions of the same library (like Project A needing an old version of a tool and Project B needing the latest), they will crash into each other. A virtual environment solves this by creating an isolated space for each project.
+
 1. Why Virtual Environments Matter
 
 Think of a virtual environment (venv) as your own little sandbox.
-Without it, Python packages you install are global — which can cause conflicts between projects.
 Without it, Python packages you install are global — which can cause conflicts between projects.
 
 With venv:
