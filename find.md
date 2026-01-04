@@ -42,3 +42,9 @@
 35. Day35 – Short-hand If Else Statements
 36. Day36 – `enumerate()` Function in Python
 37. Day37 – Virtual Environment in Python
+38. Day38 - How import works in Python
+39. Day39 - if __name__ == "__main__" in Python
+40. Day40 - os Module in Python
+41. Day41 - Local vs Global Variables in Python
+42. Day42 - File IO in Python
+43. Day43 - read(), readlines() and other methods
