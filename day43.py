@@ -1,3 +1,5 @@
+#day43 - read(), readlines() and other methods
+
 f = open('myfile_3.txt', 'r') # 'myfile.txt' ko 'r' (read) mode mein open kiya.
 i = 0 # Ek counter 'i' initialize kiya 0 se.
 while True: # Ek infinite loop shuru kiya.
