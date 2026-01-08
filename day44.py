@@ -1,3 +1,5 @@
+#day44 -  seek(), tell() and other functions
+
 with open("file.txt", "r") as f:
   print(type(f))      # Yeh batayega ki 'f' kis tarah ka object hai (TextIOWrapper).
   f.seek(10)          # Cursor ko jump kara kar sidha 10th character (index) par le jayega.
