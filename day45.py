@@ -1,3 +1,5 @@
+#day45 -  Lambda functions in Python
+
 # 1. Normal Tareeka: 'def' keyword se function banana
 def double(x):
     return x*2
