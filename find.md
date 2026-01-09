@@ -51,6 +51,6 @@
 44. Day44 - seek(), tell() and other functions
 45. Day45 - Lambda functions in Python
 46. Day46 - Map, Filter and Reduce in Python
-42. Day42 - File IO in Python
-43. Day43 - read(), readlines() and other methods
-44. Day44 - 'is' vs '==' in Python
+47. Day47 - 'is' vs '==' in Python
+48. Day48 - Exercise 5 - Snake Water Gun  Also we will learn "random" in python
+49. Day49 - Classes and Objects in Python
