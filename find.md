@@ -55,3 +55,4 @@
 48. Day48 - Exercise 5 - Snake Water Gun  Also we will learn "random" in python
 49. Day49 - Classes and Objects in Python
 50. Day50 - Constructors in Python
+51. Day51 - Decorators in Python
